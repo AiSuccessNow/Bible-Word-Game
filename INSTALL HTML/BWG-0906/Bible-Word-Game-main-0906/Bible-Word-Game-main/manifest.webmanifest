@@ -1,0 +1,38 @@
+{
+  "name": "Fun Bible Word Game",
+  "short_name": "Bible Word",
+  "description": "A daily Bible-themed Wordle-like. Solve the 5-letter word to reveal an uplifting Bible verse.",
+  "categories": [
+    "games",
+    "education",
+    "word"
+  ],
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0f14",
+  "theme_color": "#0b0f14",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/apple-touch-icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
